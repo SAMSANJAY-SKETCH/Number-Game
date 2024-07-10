@@ -1,0 +1,26 @@
+#main{
+    height: 450px;
+    width: 550px;
+    border: 3px solid black;
+    margin: auto;
+    margin-top: 150px;
+    text-align: center;
+    background-color: white;
+    color: white;
+    background-image: url(./back\ 4.avif);
+    font-weight: bolder;
+}
+#Rules{
+    text-align: justify;
+    margin-left: 125px;
+}
+
+#n1{
+    margin-top: 30px;
+}
+
+body{
+    background-image: url(./back\ 1.jpeg);
+}
+
+
